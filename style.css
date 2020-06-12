@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Front-end";
+  src: url(fonts/Roboto-Regular.ttf);
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Front-end";
+  src: url(fonts/Roboto-Bold.ttf);
+  font-weight: normal;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  margin: ;
+}
+.container {
+  max-width: 800;
+  margin: auto;
+}
+.clearfix {
+  clear: both;
+}
+.logo {
+  display: inline-block;
+  font-size: 20px;
+}
+.logo_main {
+  font: size 1.5em;
+  font-weight: bold;
+}
+.logo_text {
+  font-size: 0.85em;
+}
+.nav {
+  display: inline-block;
+}
+
+.contact- {
+  margin-right: 30px;
+  float: right;
+}
+
+.contakt_icon {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.contact_item {
+  margin-right: 30px;
+}
